@@ -66,100 +66,100 @@
     },
     "market": {
       "status": "success",
-      "rows": 32530,
-      "started_at": "2026-07-27T11:34:18+08:00",
-      "finished_at": "2026-07-27T11:34:26+08:00",
+      "rows": 32524,
+      "started_at": "2026-07-27T18:56:50+08:00",
+      "finished_at": "2026-07-27T18:56:58+08:00",
       "latest_date": "20260727",
-      "total_cached_rows": 32530,
+      "total_cached_rows": 32537,
       "symbols": {
         "000001.SH": {
           "status": "success",
-          "rows": 1589,
+          "rows": 1590,
           "source": "新浪财经 / AKShare"
         },
         "399001.SZ": {
           "status": "success",
-          "rows": 1589,
+          "rows": 1590,
           "source": "新浪财经 / AKShare"
         },
         "399006.SZ": {
           "status": "success",
-          "rows": 1589,
+          "rows": 1590,
           "source": "新浪财经 / AKShare"
         },
         "000300.SH": {
           "status": "success",
-          "rows": 1589,
+          "rows": 1590,
           "source": "新浪财经 / AKShare"
         },
         "000688.SH": {
           "status": "success",
-          "rows": 1589,
+          "rows": 1590,
           "source": "新浪财经 / AKShare"
         },
         "931087.CSI": {
           "status": "success",
-          "rows": 1590,
+          "rows": 1591,
           "source": "中证指数官网 / AKShare"
         },
         "^IXIC": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "^GSPC": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "^DJI": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "DX-Y.NYB": {
           "status": "success",
-          "rows": 1651,
+          "rows": 1650,
           "source": "Yahoo Finance / yfinance"
         },
         "AAPL": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "MSFT": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "NVDA": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "AMZN": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "GOOGL": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "META": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "TSLA": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "MU": {
           "status": "success",
-          "rows": 1648,
+          "rows": 1647,
           "source": "Yahoo Finance / yfinance"
         },
         "005930.KS": {
@@ -173,13 +173,13 @@
           "source": "Yahoo Finance / yfinance"
         }
       },
-      "cached_rows": 32530
+      "cached_rows": 32537
     },
     "global_macro": {
       "status": "success",
       "rows": 2,
-      "started_at": "2026-07-27T11:34:26+08:00",
-      "finished_at": "2026-07-27T11:43:40+08:00",
+      "started_at": "2026-07-27T18:56:58+08:00",
+      "finished_at": "2026-07-27T19:06:12+08:00",
       "latest_date": "20260724",
       "total_cached_rows": 28763,
       "source_details": {
@@ -275,45 +275,45 @@
     },
     "deviation": {
       "status": "success",
-      "rows": 2075,
-      "started_at": "2026-07-27T11:46:00+08:00",
-      "finished_at": "2026-07-27T11:46:01+08:00",
-      "latest_date": "20260724",
-      "total_cached_rows": 2075,
+      "rows": 2080,
+      "started_at": "2026-07-27T19:06:12+08:00",
+      "finished_at": "2026-07-27T19:06:12+08:00",
+      "latest_date": "20260727",
+      "total_cached_rows": 2080,
       "method": "(指数收盘/20或30周期均线-1)×100%；周期包括周K和月K",
       "indices": {
         "000001.SH": {
           "status": "success",
-          "rows": 415,
-          "latest_week_date": "20260724",
-          "latest_month_date": "20260724"
+          "rows": 416,
+          "latest_week_date": "20260727",
+          "latest_month_date": "20260727"
         },
         "399001.SZ": {
           "status": "success",
-          "rows": 415,
-          "latest_week_date": "20260724",
-          "latest_month_date": "20260724"
+          "rows": 416,
+          "latest_week_date": "20260727",
+          "latest_month_date": "20260727"
         },
         "399006.SZ": {
           "status": "success",
-          "rows": 415,
-          "latest_week_date": "20260724",
-          "latest_month_date": "20260724"
+          "rows": 416,
+          "latest_week_date": "20260727",
+          "latest_month_date": "20260727"
         },
         "000688.SH": {
           "status": "success",
-          "rows": 415,
-          "latest_week_date": "20260724",
-          "latest_month_date": "20260724"
+          "rows": 416,
+          "latest_week_date": "20260727",
+          "latest_month_date": "20260727"
         },
         "000300.SH": {
           "status": "success",
-          "rows": 415,
-          "latest_week_date": "20260724",
-          "latest_month_date": "20260724"
+          "rows": 416,
+          "latest_week_date": "20260727",
+          "latest_month_date": "20260727"
         }
       },
-      "cached_rows": 2075
+      "cached_rows": 2080
     },
     "fund_subscription": {
       "status": "success",
@@ -343,7 +343,7 @@
       "snapshot_kind": "盘中快照"
     }
   },
-  "updated_at": "2026-07-27T11:33:36+08:00",
+  "updated_at": "2026-07-27T18:56:50+08:00",
   "overall_status": "success",
-  "last_update_mode": "all"
+  "last_update_mode": "global"
 }
