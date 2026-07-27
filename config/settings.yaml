@@ -1,7 +1,7 @@
 app:
   name: "MacroScope Complete"
   title_cn: "全球宏观与市场监测看板"
-  version: "6.0.0"
+  version: "7.2.0"
   subtitle: "完整数据文件、自动更新、全球市场与A股监测"
   disclaimer: "公开数据可能存在延迟、修订或临时中断，仅供研究与信息展示，不构成投资建议。"
 
@@ -9,7 +9,7 @@ timezone: "Asia/Shanghai"
 macro_start_month: "200801"
 market_start_date: "20200101"
 valuation_start_date: "20040101"
-fred_start_date: "20000101"
+fred_start_date: "19620102"
 
 china_indices:
   # 这些指数同时用于全球市场页面和10/20周均线偏离度计算。
