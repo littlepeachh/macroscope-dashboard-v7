@@ -4,8 +4,8 @@
     "macro": {
       "status": "success",
       "rows": 168,
-      "started_at": "2026-07-27T11:33:36+08:00",
-      "finished_at": "2026-07-27T11:34:03+08:00",
+      "started_at": "2026-07-27T21:26:20+08:00",
+      "finished_at": "2026-07-27T21:26:53+08:00",
       "latest_date": "202606",
       "total_cached_rows": 168,
       "source_details": {
@@ -45,8 +45,8 @@
     "liquidity": {
       "status": "success",
       "rows": 4945,
-      "started_at": "2026-07-27T11:34:03+08:00",
-      "finished_at": "2026-07-27T11:34:18+08:00",
+      "started_at": "2026-07-27T21:26:53+08:00",
+      "finished_at": "2026-07-27T21:27:31+08:00",
       "latest_date": "20260727",
       "total_cached_rows": 4981,
       "source_details": {
@@ -343,7 +343,7 @@
       "snapshot_kind": "盘中快照"
     }
   },
-  "updated_at": "2026-07-27T18:56:50+08:00",
+  "updated_at": "2026-07-27T21:26:20+08:00",
   "overall_status": "success",
-  "last_update_mode": "global"
+  "last_update_mode": "macro"
 }
