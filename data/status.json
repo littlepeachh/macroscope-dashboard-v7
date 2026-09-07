@@ -66,11 +66,11 @@
     },
     "market": {
       "status": "success",
-      "rows": 33125,
-      "started_at": "2026-09-06T07:57:47+08:00",
-      "finished_at": "2026-09-06T07:57:56+08:00",
-      "latest_date": "20260904",
-      "total_cached_rows": 33126,
+      "rows": 33126,
+      "started_at": "2026-09-07T07:59:39+08:00",
+      "finished_at": "2026-09-07T07:59:50+08:00",
+      "latest_date": "20260906",
+      "total_cached_rows": 33127,
       "symbols": {
         "000001.SH": {
           "status": "success",
@@ -119,7 +119,7 @@
         },
         "DX-Y.NYB": {
           "status": "success",
-          "rows": 1680,
+          "rows": 1681,
           "source": "Yahoo Finance / yfinance"
         },
         "AAPL": {
@@ -173,13 +173,13 @@
           "source": "Yahoo Finance / yfinance"
         }
       },
-      "cached_rows": 33126
+      "cached_rows": 33127
     },
     "global_macro": {
       "status": "success",
       "rows": 2,
-      "started_at": "2026-09-06T07:57:56+08:00",
-      "finished_at": "2026-09-06T08:07:10+08:00",
+      "started_at": "2026-09-07T07:59:50+08:00",
+      "finished_at": "2026-09-07T08:09:04+08:00",
       "latest_date": "20260903",
       "total_cached_rows": 28779,
       "source_details": {
@@ -276,8 +276,8 @@
     "deviation": {
       "status": "success",
       "rows": 2115,
-      "started_at": "2026-09-06T08:07:10+08:00",
-      "finished_at": "2026-09-06T08:07:10+08:00",
+      "started_at": "2026-09-07T08:09:04+08:00",
+      "finished_at": "2026-09-07T08:09:04+08:00",
       "latest_date": "20260904",
       "total_cached_rows": 2115,
       "method": "(指数收盘/20或30周期均线-1)×100%；周期包括周K和月K",
@@ -336,7 +336,7 @@
       "note": "非A股交易时段，继续展示上一次成功快照。"
     }
   },
-  "updated_at": "2026-09-06T21:47:41+08:00",
+  "updated_at": "2026-09-07T07:59:39+08:00",
   "overall_status": "success",
-  "last_update_mode": "evening"
+  "last_update_mode": "global"
 }
