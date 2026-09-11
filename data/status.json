@@ -4,8 +4,8 @@
     "macro": {
       "status": "success",
       "rows": 170,
-      "started_at": "2026-09-10T22:37:23+08:00",
-      "finished_at": "2026-09-10T22:37:47+08:00",
+      "started_at": "2026-09-11T15:16:15+08:00",
+      "finished_at": "2026-09-11T15:16:31+08:00",
       "latest_date": "202608",
       "total_cached_rows": 170,
       "source_details": {
@@ -44,15 +44,15 @@
     },
     "liquidity": {
       "status": "success",
-      "rows": 4978,
-      "started_at": "2026-09-10T22:37:47+08:00",
-      "finished_at": "2026-09-10T22:40:06+08:00",
-      "latest_date": "20260910",
-      "total_cached_rows": 5014,
+      "rows": 4979,
+      "started_at": "2026-09-11T15:16:31+08:00",
+      "finished_at": "2026-09-11T15:16:49+08:00",
+      "latest_date": "20260911",
+      "total_cached_rows": 5015,
       "source_details": {
         "shibor_on": {
           "status": "success",
-          "rows": 4978,
+          "rows": 4979,
           "source": "中国货币网 / AKShare"
         },
         "dr": {
@@ -62,7 +62,7 @@
         }
       },
       "note": "DR来自中国货币网，严格不以FDR替代。",
-      "cached_rows": 5014
+      "cached_rows": 5015
     },
     "market": {
       "status": "success",
@@ -333,7 +333,7 @@
       "error": "DataFetchError('A股实时行情失败: 东方财富沪深京A股实时行情: ConnectionError(ProtocolError(\\'Connection aborted.\\', RemoteDisconnected(\\'Remote end closed connection without response\\'))) | 新浪沪深京A股实时行情: JSONDecodeError(\"Can not decode value starting with character \\'<\\'\", position=position_marker(offset=0,line=1,column=0), severity=\\'error\\') | 东方财富沪深A股分市场行情: DataFetchError(\\'数据源返回空表\\')')"
     }
   },
-  "updated_at": "2026-09-11T08:13:56+08:00",
+  "updated_at": "2026-09-11T15:16:15+08:00",
   "overall_status": "success",
-  "last_update_mode": "global"
+  "last_update_mode": "macro"
 }
