@@ -67,8 +67,8 @@
     "market": {
       "status": "success",
       "rows": 33569,
-      "started_at": "2026-10-10T09:47:28+08:00",
-      "finished_at": "2026-10-10T09:47:35+08:00",
+      "started_at": "2026-10-11T09:02:48+08:00",
+      "finished_at": "2026-10-11T09:03:00+08:00",
       "latest_date": "20261009",
       "total_cached_rows": 33575,
       "symbols": {
@@ -178,8 +178,8 @@
     "global_macro": {
       "status": "success",
       "rows": 2,
-      "started_at": "2026-10-10T09:47:35+08:00",
-      "finished_at": "2026-10-10T09:56:49+08:00",
+      "started_at": "2026-10-11T09:03:00+08:00",
+      "finished_at": "2026-10-11T09:12:21+08:00",
       "latest_date": "20261008",
       "total_cached_rows": 28827,
       "source_details": {
@@ -276,8 +276,8 @@
     "deviation": {
       "status": "success",
       "rows": 2145,
-      "started_at": "2026-10-10T09:56:49+08:00",
-      "finished_at": "2026-10-10T09:56:49+08:00",
+      "started_at": "2026-10-11T09:12:21+08:00",
+      "finished_at": "2026-10-11T09:12:21+08:00",
       "latest_date": "20261009",
       "total_cached_rows": 2145,
       "method": "(指数收盘/20或30周期均线-1)×100%；周期包括周K和月K",
@@ -343,7 +343,7 @@
       "snapshot_kind": "收盘后快照"
     }
   },
-  "updated_at": "2026-10-10T23:57:04+08:00",
+  "updated_at": "2026-10-11T09:02:48+08:00",
   "overall_status": "success",
-  "last_update_mode": "evening"
+  "last_update_mode": "global"
 }
